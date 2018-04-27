@@ -1,0 +1,80 @@
+2018-04-27T02:31:44.298Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-27T02:31:44.308Z - normal: checking language setting...
+2018-04-27T02:31:44.308Z - normal: Language: zh
+2018-04-27T02:31:52.369Z - success: protocol editor-framework registered
+2018-04-27T02:31:52.369Z - success: protocol app registered
+2018-04-27T02:31:52.369Z - success: protocol theme registered
+2018-04-27T02:31:52.369Z - success: protocol packages registered
+2018-04-27T02:31:52.369Z - success: protocol unpack registerred
+2018-04-27T02:31:52.369Z - success: protocol disable-commonjs registerred
+2018-04-27T02:31:52.379Z - error: { Error: getaddrinfo ENOTFOUND creator-api.cocos.com creator-api.cocos.com:443
+    at errnoException (dns.js:28:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:73:26)
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'creator-api.cocos.com',
+  host: 'creator-api.cocos.com',
+  port: 443 }
+    at D:\大三下\马\CocosCreator\resources\app.asar\share\login\lib\user.js:1:1441
+    at ClientRequest.Https.request.on.e (D:\大三下\马\CocosCreator\resources\app.asar\share\login\lib\network.js:1:873)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:191:7)
+    at TLSSocket.socketErrorListener (_http_client.js:358:9)
+    at emitOne (events.js:96:13)
+    at TLSSocket.emit (events.js:191:7)
+    at connectErrorNT (net.js:1032:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+2018-04-27T02:31:52.459Z - normal: failed to connect login server... skipping login
+2018-04-27T02:31:52.459Z - normal: Check project D:\大三下\马\start_project
+2018-04-27T02:31:52.469Z - normal: Initializing Cocos2d
+2018-04-27T02:31:54.569Z - normal: Initializing Asset Database
+2018-04-27T02:31:54.909Z - success: protocol uuid registerred
+2018-04-27T02:31:54.909Z - success: protocol db registerred
+2018-04-27T02:31:54.909Z - success: protocol thumbnail registerred
+2018-04-27T02:31:54.909Z - normal: Loading editor/builtin packages
+2018-04-27T02:31:55.099Z - success: anysdk loaded
+2018-04-27T02:31:55.879Z - success: assets loaded
+2018-04-27T02:31:55.889Z - success: builder loaded
+2018-04-27T02:31:55.899Z - success: cocos-analytics loaded
+2018-04-27T02:31:55.929Z - success: console loaded
+2018-04-27T02:31:56.069Z - success: fb-instant-games loaded
+2018-04-27T02:31:56.089Z - success: hierarchy loaded
+2018-04-27T02:31:56.099Z - success: inspector loaded
+2018-04-27T02:31:56.099Z - success: keystore loaded
+2018-04-27T02:31:56.122Z - success: node-library loaded
+2018-04-27T02:31:56.128Z - success: package-asset loaded
+2018-04-27T02:31:56.138Z - success: preferences loaded
+2018-04-27T02:31:56.148Z - success: project-exporter loaded
+2018-04-27T02:31:56.228Z - success: project-importer loaded
+2018-04-27T02:31:56.238Z - success: project-settings loaded
+2018-04-27T02:31:56.248Z - success: ui-kit loaded
+2018-04-27T02:31:56.258Z - success: ui-grid loaded
+2018-04-27T02:31:56.278Z - success: scene loaded
+2018-04-27T02:31:56.288Z - success: sprite-editor loaded
+2018-04-27T02:31:56.308Z - success: store loaded
+2018-04-27T02:31:56.338Z - success: timeline loaded
+2018-04-27T02:31:56.338Z - normal: Loading builtin packages
+2018-04-27T02:31:56.418Z - success: asset-db-debugger loaded
+2018-04-27T02:31:56.468Z - success: code-editor loaded
+2018-04-27T02:31:56.498Z - success: color-picker loaded
+2018-04-27T02:31:56.508Z - success: package-manager loaded
+2018-04-27T02:31:56.538Z - success: sdkbox loaded
+2018-04-27T02:31:56.548Z - success: tester loaded
+2018-04-27T02:31:56.558Z - success: ui-kit-preview-extra loaded
+2018-04-27T02:31:56.558Z - success: ui-kit-preview loaded
+2018-04-27T02:31:56.568Z - success: ui-tree loaded
+2018-04-27T02:32:04.155Z - normal: Initializing project D:\大三下\马\start_project
+2018-04-27T02:32:04.175Z - normal: Loading packages
+2018-04-27T02:32:04.195Z - normal: Watching packages
+2018-04-27T02:32:04.255Z - normal: Run Application
+2018-04-27T02:32:08.247Z - success: preview server running at http://localhost:7456
+2018-04-27T02:33:03.230Z - error: Window "main" unresponsive: [object Object]
+    at BrowserWindow.Window.nativeWin.on.e (D:\大三下\马\CocosCreator\resources\app.asar\editor-framework\lib\main\window.js:1:2470)
+    at emitOne (events.js:96:13)
+    at BrowserWindow.emit (events.js:191:7)
+2018-04-27T02:33:39.007Z - error: Window "main" unresponsive: [object Object]
+    at BrowserWindow.Window.nativeWin.on.e (D:\大三下\马\CocosCreator\resources\app.asar\editor-framework\lib\main\window.js:1:2470)
+    at emitOne (events.js:96:13)
+    at BrowserWindow.emit (events.js:191:7)
+2018-04-27T02:34:36.481Z - normal: 1.9.0
